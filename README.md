@@ -10,8 +10,10 @@ In this phase, several music datasets were collected, including information abou
 ### Part 2: Python Integration, Visualization, and Query Plan Analysis
 Building upon the previous phase, this part involved connecting to the PostgreSQL database using Python, and utilizing data visualization libraries to create meaningful visual representations of the analyzed music data. Additionally, query plans were generated and analyzed, including the creation of physical query plan tree structures, to optimize query performance and understand the underlying execution processes.
 
+### ER Diagram
+<img width="693" alt="image" src="https://github.com/vysalik98/music-dbms-project/assets/114649598/7a9ca063-8d20-4341-9573-f211601f3091">
+
 ### Repository Contents
 CSV files: Contains the collected music datasets in CSV format.  
-SQL file: Includes all the SQL queries developed for data analysis and exploration.  
-Project documentation: Detailed documentation of the project, including an overview of the dataset collection process, preprocessing steps, SQL query descriptions, and analysis results.  
-Python notebook: A Jupyter notebook containing the Python code for connecting to the database, performing visualizations, and query plan analysis.
+SQL files: Includes all the SQL queries developed in two parts for data analysis and exploration.   
+Python notebook: A Jupyter notebook containing the Python code for connecting to the database, performing visualizations.
