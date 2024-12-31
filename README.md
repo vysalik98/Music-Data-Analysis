@@ -1,4 +1,4 @@
-# Music Data Analysis Project
+# Music Data Analysis
 This repository contains a DBMS (Database Management System) project focused on music data analysis developed using PostgreSQL and PgAdmin. The project involves collecting various datasets related to music, performing preprocessing and cleaning tasks, writing SQL queries to extract valuable insights from the data, and utilizing Python for data visualization and query plan analysis.
 
 ### Project Components
